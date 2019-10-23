@@ -1,0 +1,76 @@
+body { background-color:#666A6E; 
+       color: #897787; 
+       font-family: Arial, Verdana, sans-serif; 
+		}
+#wrapper  {	
+			background-color: #666A6E;
+			width : 80%;
+			min-width: 960px;
+			margin-left:auto;
+			margin-right:auto;
+			}
+h2	{  color:black; 
+       line-height: 100%;
+       font-family: Georgia, "Times New Roman", serif; 
+	   text-align: center;
+		border: 3px solid #FFCCAE;
+		padding: 10px 5px 10px 5px;
+		border-radius: 15px;
+		
+		}
+h5	{	color:black; 
+		font-size: 0.5em;
+		font-weight: bold;	
+		}
+
+#login{		background-color: #DCC7AA;
+			width : 80%;
+			min-width: 960px;
+			margin-left:auto;
+			margin-right:auto;
+			border-radius: 15px;
+			text-align: center;
+			}
+#register{	background-color: #F7C331;
+			width : 80%;
+			min-width: 960px;
+			margin-left:auto;
+			margin-right:auto;
+			border-radius: 15px;
+			text-align: center;
+			}
+#question{	background-color:#5252d4;
+			width : 80%;
+			min-width: 960px;
+			margin-left:auto;
+			margin-right:auto;
+			border-radius: 15px;
+			text-align: center;
+			}
+#button { 
+			color: #0C5B91;
+			font-size: 1em;
+			text-decoration: none;
+			text-align: center;
+			border: 2px solid #FFFFFF;
+			padding: auto;
+			background-image: linear-gradient(180deg,#7FCFE8,white,#8C9AC7,#7FCFE8);
+
+}	
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
